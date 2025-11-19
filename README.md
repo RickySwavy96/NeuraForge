@@ -1,5 +1,7 @@
 # ⚡ NeuraForge
 
+Currently Not Operational.
+
 **Unified AI Model Interface for Windows with AMD GPU Support**
 
 NeuraForge is a powerful, user-friendly desktop application that allows you to run AI models locally on your Windows PC with full AMD GPU acceleration via ZLUDA. No cloud services, no subscriptions - just pure local AI power.
