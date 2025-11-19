@@ -1,0 +1,37 @@
+# NeuraForge Dependencies
+# Python 3.12.9 required
+
+# Core PyTorch (will be patched with ZLUDA)
+torch>=2.5.0
+torchvision>=0.20.0
+torchaudio>=2.5.0
+
+# AI/ML Libraries
+transformers>=4.40.0
+diffusers>=0.27.0
+accelerate>=0.30.0
+safetensors>=0.4.0
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+tokenizers>=0.19.0
+
+# Image Processing
+pillow>=10.0.0
+opencv-python>=4.9.0
+
+# Utilities
+numpy>=1.24.0
+einops>=0.7.0
+omegaconf>=2.3.0
+pyyaml>=6.0.0
+requests>=2.31.0
+tqdm>=4.66.0
+huggingface-hub>=0.20.0
+
+# UI Components
+customtkinter>=5.2.0
+packaging>=23.0
+
+# Optional but recommended
+# bitsandbytes  # For 8-bit quantization (may not work with AMD)
+# xformers      # Not compatible with ZLUDA
